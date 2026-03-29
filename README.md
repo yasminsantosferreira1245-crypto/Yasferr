@@ -41,7 +41,7 @@ Atualmente, estou desenvolvendo minhas habilidades em front-end, com o objetivo 
 
 ---
 
-## 📲 Contato
+## 📲 Vamos nos conectar?
 📧 Email: yasdminsantosferreira1245@gmail.com  
 📱 Instagram: @_yas_santos_  
 
